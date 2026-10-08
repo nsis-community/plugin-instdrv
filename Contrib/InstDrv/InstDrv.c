@@ -26,7 +26,7 @@ it freely, subject to the following restrictions:
 #include <windows.h>
 #include <setupapi.h>
 #include <newdev.h>
-#include "../exdll/exdll.h"
+#include "exdll.h"
 
 
 char    paramBuf[1024];
